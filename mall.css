@@ -1,0 +1,59 @@
+header img {
+    height: 130px;
+    width: 440px;
+    position: relative;
+}
+
+body {
+    position: relative;
+    background-color: black;
+}
+
+h1,h2,h3,legend,label {
+    color: aliceblue;
+    text-align: center;
+    font-family: monospace;
+    font-style: italic; 
+}
+
+form {
+    text-align: center;
+}
+
+#count {
+  margin: auto;
+  display: block;
+}
+
+#show {
+    position: absolute;
+    left: 44%;
+}
+
+footer {
+    position: relative;
+    top: 250%;
+}
+
+#result {
+    color: aliceblue;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+    
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+
+#image {
+    text-align: center;
+}
+
+#result {
+    color: antiquewhite;
+}
