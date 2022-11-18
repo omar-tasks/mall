@@ -60,7 +60,7 @@ function randompic () {
             repeat.push(random);
         }
 
-        const source = 'http://127.0.0.1:5501/images/' + random + '.jpg'
+        const source = 'https://raw.githubusercontent.com/omar-tasks/mall/main/images/' + random + '.jpg'
         images[i].src = source;
 
         let isExist = false;
